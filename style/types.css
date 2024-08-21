@@ -1,0 +1,143 @@
+.type_grass {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/12.png");
+}
+
+.type_normal {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/1.png");
+}
+
+.type_fire {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/10.png");
+}
+
+.type_water {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/11.png");
+}
+
+.type_electric {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/13.png");
+}
+
+.type_ice {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/15.png");
+}
+
+.type_fighting {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/2.png");
+}
+
+.type_poison {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/4.png");
+}
+
+.type_ground {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/5.png");
+}
+
+.type_flying {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/3.png");
+}
+
+.type_psychic {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/14.png");
+}
+
+.type_bug {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/7.png");
+}
+
+.type_rock {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/6.png");
+}
+
+.type_ghost {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/8.png");
+}
+
+.type_dragon {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/16.png");
+}
+
+.type_dark {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/17.png");
+}
+
+.type_steel {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/9.png");
+}
+
+.type_fairy {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 108px;
+    height: 24px;
+    background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/18.png");
+}

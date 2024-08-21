@@ -1,0 +1,64 @@
+@media (max-width:520px) {
+    .filter input {
+        width: 120px;
+        margin-right: 20px;
+    }
+
+    .cardBigPkm {
+        width: 300px;
+        height: 500px;
+    }
+
+    .cardInfoBig {
+        font-size: 20px;
+    }
+
+    .PkmPicBig {
+        width: 180px;
+        height: 180px;
+    }
+
+    .cardNameBig {
+        font-size: 30px;
+    }
+
+    .footerMain {
+        display: none;
+    }
+}
+
+@media (max-width:340px) {
+    .cardBigPkm {
+        width: 240px;
+        height: 600px;
+    }
+
+    .headerMain span {
+        font-size: 20px;
+    }
+
+    .PkmPicBig {
+        width: 160px;
+        height: 160px;
+    }
+
+    .filter input {
+        width: 100px
+    }
+}
+
+@media (max-height:940px) {
+    .cardBigPkm {
+        height: 650px;
+    }
+
+    .cardInfoBig {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:380px) {
+    .filter input {
+        width: 100px
+    }
+}

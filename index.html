@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style/overlay.css">
+    <link rel="stylesheet" href="./style/colors.css">
+    <link rel="stylesheet" href="./style/pkmCard.css">
+    <link rel="stylesheet" href="./style/pkmCardBig.css">
+    <link rel="stylesheet" href="./style/types.css">
+    <link rel="stylesheet" href="./style/mediaquerry.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon_io/favicon-16x16.png">
+    <title>Pokedex</title>
+</head>
+
+<body onload="loadInit()">
+    <header class="header container">
+        <div class="contentHeader">
+            <div class="headerMain"><img class="headPic" src="./assets/img/pokeball-1594373_640.png"
+                    alt=""><span>Pokedex</span></div>
+            <div class="filter"><img id="searchFilterBackOff" onclick="filterEmptyInput()"
+                    class="arrowFilterBack d_none" src="./assets/img/icons8-left-2-50.png" alt="pfeil links"><input
+                    id="inputSearchPkm" type="text" minlength="3" oninput="filterPkm()" placeholder="Search"></div>
+        </div>
+    </header>
+    <div id="overlayLoad" class="overlay d_none"><img class="overlayPic" src="./assets/img/pokeball-1594373_640.png"
+            alt="foto von einen Pokeball"><span>Es
+            werden Pokemons geladen!!</span>
+    </div>
+    <div id="content" class="contentMain"></div>
+    <div id="contentFilterArea" class="contentMain"></div>
+    <div id="overlayLoadNewPkm" class="d_none">
+        <img class="overlayPicNewPkm" src="./assets/img/pokeball-1594373_640.png" alt="foto von einen Pokeball">
+        <span>Es werden Pokemons geladen!!</span>
+    </div>
+    <div id="overlayContent" onclick="overlayCardClose()" class="cardLayout d_none"></div>
+    <footer id="footerOff" class="footer">
+        <div class="footerMain"><img class="footerPic" src="./assets/img/pokeball-1594373_640.png"
+                alt="pokeball bild"><span>Pokedex</span>
+    </footer>
+    <script src="./script.js"></script>
+    <script src="./script/overlay.js"></script>
+    <script src="./script/templates.js"></script>
+</body>
+
+</html>

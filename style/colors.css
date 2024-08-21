@@ -1,0 +1,71 @@
+.bg_grass {
+    background-color: rgb(66, 161, 41);
+}
+
+.bg_normal {
+    background-color: rgb(159, 161, 159);
+}
+
+.bg_fire {
+    background-color: rgb(230, 40, 41);
+}
+
+.bg_water {
+    background-color: rgb(41, 128, 239);
+}
+
+.bg_electric {
+    background-color: rgb(250, 192, 0);
+}
+
+.bg_ice {
+    background-color: rgb(63, 216, 255);
+}
+
+.bg_fighting {
+    background-color: rgb(255, 128, 0);
+}
+
+.bg_poison {
+    background-color: rgb(144, 64, 204);
+}
+
+.bg_ground {
+    background-color: rgb(145, 81, 33);
+}
+
+.bg_flying {
+    background-color: rgb(168, 144, 240);
+}
+
+.bg_psychic {
+    background-color: rgb(239, 65, 121);
+}
+
+.bg_bug {
+    background-color: rgb(145, 161, 25);
+}
+
+.bg_rock {
+    background-color: rgb(175, 169, 129);
+}
+
+.bg_ghost {
+    background-color: rgb(112, 65, 112);
+}
+
+.bg_dragon {
+    background-color: rgb(80, 97, 225);
+}
+
+.bg_dark {
+    background-color: rgb(80, 65, 63);
+}
+
+.bg_steel {
+    background-color: rgb(96, 161, 184);
+}
+
+.bg_fairy {
+    background-color: rgb(241, 112, 241);
+}

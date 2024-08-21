@@ -1,0 +1,64 @@
+.overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 80vh;
+
+}
+
+.overlay span {
+    color: white;
+    font-size: 24px;
+}
+
+.overlayPic {
+    width: 352px;
+    animation-name: rotation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+.footerLoad {
+    width: 100%;
+    margin-top: 40px;
+    position: absolute;
+    bottom: 0;
+}
+
+.d_none {
+    display: none;
+}
+
+.overlayNewP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 50px;
+}
+
+.overlayNewP span {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.overlayPicNewPkm {
+    width: 60px;
+    animation-name: rotation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(380deg);
+    }
+}
